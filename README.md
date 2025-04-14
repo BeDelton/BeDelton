@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BeDelton
-- 🌱 I’m currently learning Python
+- I'm a current Data Science + Cyber Security (3+1) Student at Quinnipiac University
 
 
